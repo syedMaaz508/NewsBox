@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "John KeimESPN Staff Writer ",
+      "title": "Washington Football Team TE Ricky Seals-Jones carted off with neck injury after collision with cameraman",
+      "description": "Washington Football Team tight end Ricky Seals-Jones suffered a neck injury in a scary sideline collision with a cameraman Sunday and was carted off.",
+      "url": "http://espn.go.com/nfl/story/_/id/32979297/washington-football-team-te-ricky-seals-jones-carted-neck-injury-collision-cameraman",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0102%2Fr957173_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-01-02T19:26:41Z",
+      "content": "LANDOVER, Md. -- Washington Football Team tight end Ricky Seals-Jones suffered a neck injury in a scary sideline collision and was ruled out for the rest of Sunday's game against the Philadelphia Eag… [+1068 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "North Carolina QB Sam Howell intends to enter 2022 NFL Draft",
+      "description": "North Carolina's Sam Howell, one of the top quarterbacks in college football, announced he intends to enter the 2022 NFL Draft.",
+      "url": "https://www.nfl.com/news/north-carolina-qb-sam-howell-intends-to-enter-2022-nfl-draft",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/jvkaft5ttqfwi0diyi3q",
+      "publishedAt": "2022-01-02T11:37:23.8349961Z",
+      "content": "North Carolina quarterback Sam Howell intends to forego his remaining college eligibility and enter the 2022 NFL Draft. He announced his decision via a video posted to social media on Saturday, two … [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "Hindustantimes",
+      "title": "PM Modi in Meerut, lays foundation of Major Dhyan Chand Sports University",
+      "description": "The Major Dhyan Chand Sports University has been planned with all the modern, state-of-the-art sports infrastructure – including a synthetic hockey ground, football ground, separate grounds for basketball, volleyball, handball, and kabaddi. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-in-meerut-lays-foundation-of-major-dhyan-chand-sports-university-101641113163055.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/01/02/1600x900/Opera_Snapshot_2022-01-02_144146_www.youtube.com_1641114751980_1641114774498.png",
+      "publishedAt": "2022-01-02T09:00:52+00:00",
+      "content": "Prime Minister Narendra Modi on Sunday laid the foundation stone of the Major Dhyan Chand Sports University in Uttar Pradesh's Meerut, inaugurating a major developmental work of his government in the… [+2188 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "FOX Sports",
+      "title": "KJ Jefferson, Spencer Sanders highlight New Year's Day bowl game standouts",
+      "description": "New Year's Day is the time for college football stars to shine bright. Here are the standouts from Saturday's big games.",
+      "url": "http://www.foxsports.com/stories/college-football/kj-jefferson-spencer-sanders-highlight-new-years-day-bowl-games",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/1408/814/1.1.22_CFB-Saturday-Standouts_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-01T23:19:01Z",
+      "content": "New Year's Day is traditionally the time when college football stars take center stage. And while the monumental College Football Playoff matchups took place on New Year's Eve, there were still a fe… [+2831 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "FOX Sports",
+      "title": "Top Plays: Notre Dame-OK State, PSU-Arkansas, Iowa-Kentucky, and more",
+      "description": "Notre Dame is battling Oklahoma State in the Fiesta Bowl, which highlights Saturday's college football roundup! Here are the top plays.",
+      "url": "http://www.foxsports.com/stories/college-football/top-plays-notre-dame-ok-state-psu-arkansas-iowa-kentucky-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/1408/814/12.30.21_Bowl-Top-Plays-Wednesday-16x9-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-01T19:32:01Z",
+      "content": "New year, same great action on the gridiron. We have officially entered 2022, but college football continues to provide enticing offerings specially for our viewing pleasure, and this Saturday is no… [+1423 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Owen S. Good",
+      "title": "John Madden: A coach synonymous with football, thanks to a video game",
+      "description": "John Madden, the NFL coach, broadcaster, and namesake of the EA Sports Madden NFL video game series, died on Tuesday, Dec. 28, 2021. Since 1988 his name has appeared on the oldest continually published sports video game series of all time, selling more than 1…",
+      "url": "https://www.polygon.com/22857879/john-madden-obituary-nfl-video-games-ea-sports-sales-legacy",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KJzClyQFzbaMrHHvhq2vUP8vmnM=/0x709:1984x1748/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23131433/108324068.jpg",
+      "publishedAt": "2021-12-29T14:30:00Z",
+      "content": "John Madden, the Super Bowl champion football coach and Hall of Fame broadcaster, and namesake of EA Sports cornerstone video game franchise for more than 30 years, died on Tuesday. He was 85. Madd… [+11037 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had. Peter the catThe only … [+5504 chars]"
+    }
+  ]
+}
